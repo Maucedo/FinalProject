@@ -22,7 +22,10 @@ pieces = ["h", "p", "k", "b", "q", "r"]
 Bpieces = ["H", "P", "K", "Q", "B", "R"]
 b = 1
 #def chosenp():
+class pieces:
+    def __init__ (self, )
     
+
 def pawnmoveB():
     if movpie == "P":
         if index1 == 1:
